@@ -1,0 +1,8 @@
+{
+  "t_step": 0.005,
+  "t_decline": 0.1,
+  "REVIEW_COST": 3.0,
+  "FALSE_DECLINE_COST": 10.0,
+  "STEPUP_FRICTION": 0.5,
+  "STEPUP_STOPS_FRAUD": 0.8
+}
