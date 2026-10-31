@@ -1,0 +1,9 @@
+top_reason,alerts,real_fraud_pct
+# spent in last #h,920,78.3
+Large amount (#),640,60.8
+Amount #x this customer's usual,476,77.5
+# other payments in the last hour,162,82.1
+Night-time (#:#),140,47.9
+Only # min since previous payment,34,85.3
+Model pattern (no single rule),13,53.8
+First payment at this merchant,4,100.0
