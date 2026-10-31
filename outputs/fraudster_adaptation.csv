@@ -1,0 +1,5 @@
+fraud amounts x,fraud_caught_top1%,fraud_txns_declined_%,fraud_txns_declined_or_stepped_up_%
+1.0,90.11,85.39,90.41
+0.5,45.63,29.52,45.38
+0.25,11.38,10.64,11.33
+0.1,8.5,8.5,8.5
